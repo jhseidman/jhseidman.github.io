@@ -11,7 +11,7 @@ layout: home
 	</div>
 <div class="home-info-text">
 	<h1>Jacob Seidman</h1>
-	<h3>PhD, Applied Mathematics</h3>
+	<h3 style="font-weight: 0;">PhD, Applied Mathematics</h3>
 </div>
 </div>
 
