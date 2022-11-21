@@ -17,4 +17,4 @@ layout: home
 
 <br>
 ### About
-Jacob H Seidman
+I am a postdoctoral researcher in the departments of Electrical Systems Engineering and Mechanical Engineering and Applied Mechanics co-hosted by Dr. George J. Pappas and Dr. Paris Perdikaris.  I received my Ph.D. in Applied Mathematics and Computational Science from the University of Pennsylvania in 2022 co-advised by Dr. Victor M. Preciado and Dr. George Pappas.  Prior to my graduate studies I received my A.B in Mathematics from Harvard University in 2016.
