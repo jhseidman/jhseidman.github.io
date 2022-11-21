@@ -6,7 +6,6 @@ layout: home
 title: Publications
 ---
 
-### Publications
 * **Seidman, Jacob H.**\*, Kissas, Georgios\*, et al. "NOMAD: Nonlinear Manifold Decoders for Operator Learning." Advances in Neural Information Processing Systems. (2022).
     
 * Kissas, Georgios\*, **Seidman, Jacob H.**\*, et al. "Learning Operators with Coupled Attention." Journal of Machine Learning Research 23.215 (2022): 1-63. **NeurIPS Spotlight**
